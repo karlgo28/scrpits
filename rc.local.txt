@@ -1,0 +1,5 @@
+#!/bin/bash
+
+service httpd start
+service smtp stop
+service tomcat6 start
