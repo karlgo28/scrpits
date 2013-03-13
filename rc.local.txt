@@ -3,3 +3,5 @@
 service httpd start
 service smtp stop
 service tomcat6 start
+
+#note:certain to add some more lines to this but no more for now.
