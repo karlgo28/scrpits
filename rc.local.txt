@@ -10,3 +10,7 @@ service ipp stop
 #note:certain to add some more lines to this but no more for now.
 
 #note2:be sure to include each start/stop directive in it's own if ... fi block to check status first
+
+#note3:so now we clone repo to local disk and work on the file.
+#      at the end of session we save file and go back to the repo screen.
+#      git detects changes and prompts accordingly
