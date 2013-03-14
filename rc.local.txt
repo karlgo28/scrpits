@@ -3,5 +3,10 @@
 service httpd start
 service smtp stop
 service tomcat6 start
+service snmpd stop
+service ipp stop
+
 
 #note:certain to add some more lines to this but no more for now.
+
+#note2:be sure to include each start/stop directive in it's own if ... fi block to check status first
