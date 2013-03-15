@@ -14,3 +14,5 @@ service ipp stop
 #note3:so now we clone repo to local disk and work on the file.
 #      at the end of session we save file and go back to the repo screen.
 #      git detects changes and prompts accordingly
+
+#also set environment variables for the JDBC connections.
